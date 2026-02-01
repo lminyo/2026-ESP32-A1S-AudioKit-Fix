@@ -116,7 +116,6 @@ ESP32-A1S（Ai-Thinker Audio Kit）历史上常见两种 Codec 硬件组合：ES
 
 ### 2.1 交付物清单
 
-- 本文档（UTF-8 编码，`.md` 结尾，文件名符合 `YYYY-MM-DD_主题_详细文档.md` 规范）。  
 - AC101 驱动与板级适配代码（已存在于工程）：  
   - [ac101.c](file:///e:/espadf/esp-adf/components/audio_hal/driver/ac101/ac101.c)  
   - [ac101.h](file:///e:/espadf/esp-adf/components/audio_hal/driver/ac101/ac101.h)  
